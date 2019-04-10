@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+c:\users\kozak\source\repos\section_02\bullcowgame\fbullcowgame.cpp(57): warning C4553: '==': result of expression not used; did you intend '='?
+  main.cpp
+  Generating Code...
+  BullCowGame.vcxproj -> C:\Users\kozak\source\repos\Section_02\Debug\BullCowGame.exe
